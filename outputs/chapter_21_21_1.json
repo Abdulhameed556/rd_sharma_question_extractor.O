@@ -1,0 +1,12 @@
+[
+  {
+    "question_number": "Illustration1",
+    "question_text": "A bag contains $4$ red balls and $6$ black balls. Two balls are drawn at random without replacement. Find $P(\text{both balls are red})$.",
+    "source": "Illustration"
+  },
+  {
+    "question_number": "1",
+    "question_text": "A die is thrown twice. Find $P(\text{sum} = 8 | \text{first throw is even})$.",
+    "source": "Exercise21.1"
+  }
+]

@@ -1,0 +1,10 @@
+\section{Chapter 30: 30.3 Questions}
+
+\begin{enumerate}
+\item A bag contains $4$ red balls and $6$ black balls. Two balls are drawn at random without replacement. Find $P(	ext{both balls are red})$.
+\item A die is thrown twice. Find $P(	ext{sum} = 8 | 	ext{first throw is even})$.
+\item In a class of $60$ students, $30$ play cricket, $20$ play football and $10$ play both games. A student is selected at random. Find $P(	ext{cricket} | 	ext{football})$.
+\item In a class of $60$ students, $30$ play cricket, $20$ play football and $10$ play both games. A student is selected at random. Find $P(	ext{exactly one game})$.
+\item Two cards are drawn successively without replacement from a well-shuffled pack of $52$ cards. Find $P(	ext{both aces} | 	ext{at least one ace})$.
+\item A box contains $3$ red balls, $4$ white balls and $5$ blue balls. Three balls are drawn at random without replacement. Find $P(	ext{all three balls are of different colors})$.
+\end{enumerate}

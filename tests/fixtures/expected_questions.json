@@ -1,0 +1,37 @@
+[
+    {
+        "question_number": "Illustration 1",
+        "question_text": "A bag contains $4$ red balls and $6$ black balls. Two balls are drawn at random without replacement. Find $P(\\text{both balls are red})$.",
+        "source": "Illustration",
+        "expected_latex": true,
+        "expected_math_content": true
+    },
+    {
+        "question_number": "1",
+        "question_text": "A die is thrown twice. Find $P(\\text{sum} = 8 | \\text{first throw is even})$.",
+        "source": "Exercise 30.3",
+        "expected_latex": true,
+        "expected_math_content": true
+    },
+    {
+        "question_number": "2",
+        "question_text": "In a class of $60$ students, $30$ play cricket, $20$ play football and $10$ play both games. A student is selected at random. Find: (i) $P(\\text{cricket} | \\text{football})$ (ii) $P(\\text{exactly one game})$",
+        "source": "Exercise 30.3",
+        "expected_latex": true,
+        "expected_math_content": true
+    },
+    {
+        "question_number": "3",
+        "question_text": "Two cards are drawn successively without replacement from a well-shuffled pack of $52$ cards. Find $P(\\text{both aces} | \\text{at least one ace})$.",
+        "source": "Exercise 30.3",
+        "expected_latex": true,
+        "expected_math_content": true
+    },
+    {
+        "question_number": "4",
+        "question_text": "A box contains $3$ red balls, $4$ white balls and $5$ blue balls. Three balls are drawn at random without replacement. Find $P(\\text{all three balls are of different colors})$.",
+        "source": "Exercise 30.3",
+        "expected_latex": true,
+        "expected_math_content": true
+    }
+]

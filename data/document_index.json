@@ -1,0 +1,211 @@
+{
+  "metadata": {
+    "created_at": "2025-07-30T00:00:00",
+    "pdf_path": "data/rd_sharma_complete.pdf",
+    "total_pages": 795,
+    "total_chapters": 13,
+    "total_topics": 82,
+    "version": "1.0"
+  },
+  "chapters": [
+    {
+      "chapter": "19",
+      "title": "DEFINITE INTEGRALS",
+      "start_page": 1,
+      "end_page": 96,
+      "page_count": 96,
+      "topics": [
+        {"topic": "19.1", "title": "Fundamental Theorem of Integral Calculus", "start_page": 1, "end_page": 16, "content_types": ["theory", "illustration"]},
+        {"topic": "19.2", "title": "Evaluation of Definite Integrals", "start_page": 17, "end_page": 33, "content_types": ["theory", "exercise"]},
+        {"topic": "19.3", "title": "Evaluation of Definite Integrals by Substitution", "start_page": 34, "end_page": 78, "content_types": ["theory"]},
+        {"topic": "19.4", "title": "Properties of Definite Integrals", "start_page": 79, "end_page": 96, "content_types": ["theory"]}
+      ]
+    },
+    {
+      "chapter": "20",
+      "title": "AREAS OF BOUNDED REGIONS",
+      "start_page": 97,
+      "end_page": 146,
+      "page_count": 50,
+      "topics": [
+        {"topic": "20.1", "title": "Introduction", "start_page": 97, "end_page": 100, "content_types": ["theory"]},
+        {"topic": "20.2", "title": "Area as a Definite Integral", "start_page": 101, "end_page": 116, "content_types": ["theory", "exercise"]},
+        {"topic": "20.3", "title": "Area using vertical strips", "start_page": 117, "end_page": 120, "content_types": ["theory"]},
+        {"topic": "20.4", "title": "Area using horizontal strips", "start_page": 121, "end_page": 130, "content_types": ["theory"]},
+        {"topic": "20.5", "title": "Area between two curves by using vertical strips", "start_page": 131, "end_page": 145, "content_types": ["exercise"]}
+      ]
+    },
+    {
+      "chapter": "21",
+      "title": "DIFFERENTIAL EQUATIONS",
+      "start_page": 147,
+      "end_page": 266,
+      "page_count": 120,
+      "topics": [
+        {"topic": "21.1", "title": "Some definitions", "start_page": 147, "end_page": 152, "content_types": ["theory"]},
+        {"topic": "21.2", "title": "Formation of Differential Equations", "start_page": 153, "end_page": 159, "content_types": ["theory"]},
+        {"topic": "21.3", "title": "Solution of a Differential Equation", "start_page": 160, "end_page": 190, "content_types": ["theory", "exercise"]},
+        {"topic": "21.4", "title": "Initial value problems", "start_page": 191, "end_page": 210, "content_types": ["exercise"]},
+        {"topic": "21.5", "title": "General form of a first-order first-degree Differential Equation", "start_page": 211, "end_page": 230, "content_types": ["theory"]},
+        {"topic": "21.6", "title": "Methods of solving a first order first degree", "start_page": 231, "end_page": 255, "content_types": ["theory"]},
+        {"topic": "21.7", "title": "Applications of differential equations", "start_page": 256, "end_page": 266, "content_types": ["exercise"]}
+      ]
+    },
+    {
+      "chapter": "22",
+      "title": "ALGEBRA OF VECTORS",
+      "start_page": 267,
+      "end_page": 332,
+      "page_count": 66,
+      "topics": [
+        {"topic": "22.1", "title": "Introduction", "start_page": 267, "end_page": 270, "content_types": ["theory"]},
+        {"topic": "22.2", "title": "Representation of Vectors", "start_page": 271, "end_page": 280, "content_types": ["theory"]},
+        {"topic": "22.3", "title": "Types of Vectors", "start_page": 281, "end_page": 290, "content_types": ["theory"]},
+        {"topic": "22.4", "title": "Parallelogram law of addition of Vectors", "start_page": 291, "end_page": 295, "content_types": ["theory"]},
+        {"topic": "22.5", "title": "Properties of addition of Vectors", "start_page": 296, "end_page": 300, "content_types": ["theory"]},
+        {"topic": "22.6", "title": "Subtraction of Vectors", "start_page": 301, "end_page": 305, "content_types": ["theory"]},
+        {"topic": "22.7", "title": "Multiplication of a Vector by a scalar", "start_page": 306, "end_page": 310, "content_types": ["theory"]},
+        {"topic": "22.8", "title": "Position vector of a point", "start_page": 311, "end_page": 320, "content_types": ["exercise"]},
+        {"topic": "22.9", "title": "Section Formulae", "start_page": 321, "end_page": 325, "content_types": ["exercise"]},
+        {"topic": "22.10", "title": "Linear combination of Vectors", "start_page": 326, "end_page": 332, "content_types": ["exercise"]}
+      ]
+    },
+    {
+      "chapter": "23",
+      "title": "SCALAR OR DOT PRODUCT",
+      "start_page": 333,
+      "end_page": 374,
+      "page_count": 42,
+      "topics": [
+        {"topic": "23.1", "title": "Introduction", "start_page": 333, "end_page": 335, "content_types": ["theory"]},
+        {"topic": "23.2", "title": "Angle between two Vectors", "start_page": 336, "end_page": 340, "content_types": ["theory"]},
+        {"topic": "23.3", "title": "The scalar or dot product", "start_page": 341, "end_page": 365, "content_types": ["theory", "exercise"]},
+        {"topic": "23.4", "title": "Some geometrical problems based upon dot product", "start_page": 366, "end_page": 374, "content_types": ["exercise"]}
+      ]
+    },
+    {
+      "chapter": "24",
+      "title": "VECTOR OR CROSS PRODUCT",
+      "start_page": 375,
+      "end_page": 404,
+      "page_count": 30,
+      "topics": [
+        {"topic": "24.1", "title": "Vector (or cross) Product", "start_page": 375, "end_page": 380, "content_types": ["theory"]},
+        {"topic": "24.2", "title": "Properties of vector Product", "start_page": 381, "end_page": 385, "content_types": ["theory"]},
+        {"topic": "24.3", "title": "Vector product in terms of Components", "start_page": 386, "end_page": 390, "content_types": ["theory"]},
+        {"topic": "24.4", "title": "Vectors normal to the plane of two given Vectors", "start_page": 391, "end_page": 395, "content_types": ["theory"]},
+        {"topic": "24.5", "title": "Some important results", "start_page": 396, "end_page": 399, "content_types": ["theory"]},
+        {"topic": "24.6", "title": "Lagrange's identity", "start_page": 400, "end_page": 404, "content_types": ["theory"]}
+      ]
+    },
+    {
+      "chapter": "25",
+      "title": "SCALAR TRIPLE PRODUCT",
+      "start_page": 405,
+      "end_page": 422,
+      "page_count": 18,
+      "topics": [
+        {"topic": "25.1", "title": "Introduction", "start_page": 405, "end_page": 408, "content_types": ["theory"]},
+        {"topic": "25.2", "title": "Scalar triple product", "start_page": 409, "end_page": 415, "content_types": ["theory"]},
+        {"topic": "25.3", "title": "Properties of scalar triple product", "start_page": 416, "end_page": 422, "content_types": ["theory", "exercise"]}
+      ]
+    },
+    {
+      "chapter": "26",
+      "title": "DIRECTION COSINES AND DIRECTION RATIOS",
+      "start_page": 423,
+      "end_page": 446,
+      "page_count": 24,
+      "topics": [
+        {"topic": "26.1", "title": "Introduction", "start_page": 423, "end_page": 428, "content_types": ["theory"]},
+        {"topic": "26.2", "title": "Recapitulation", "start_page": 429, "end_page": 435, "content_types": ["theory"]},
+        {"topic": "26.3", "title": "Direction cosines and direction ratios of a line", "start_page": 436, "end_page": 440, "content_types": ["theory"]},
+        {"topic": "26.4", "title": "Angle between two vectors", "start_page": 441, "end_page": 446, "content_types": ["theory"]}
+      ]
+    },
+    {
+      "chapter": "27",
+      "title": "STRAIGHT LINE IN SPACE",
+      "start_page": 447,
+      "end_page": 488,
+      "page_count": 42,
+      "topics": [
+        {"topic": "27.1", "title": "Introduction", "start_page": 447, "end_page": 450, "content_types": ["theory"]},
+        {"topic": "27.2", "title": "Vector and cartesian equations of a line", "start_page": 451, "end_page": 460, "content_types": ["theory"]},
+        {"topic": "27.3", "title": "Angle between two lines", "start_page": 461, "end_page": 470, "content_types": ["exercise"]},
+        {"topic": "27.4", "title": "Intersection of two lines", "start_page": 471, "end_page": 475, "content_types": ["exercise"]},
+        {"topic": "27.5", "title": "Perpendicular distance of a line from a point", "start_page": 476, "end_page": 480, "content_types": ["exercise"]},
+        {"topic": "27.6", "title": "Shortest distance between two Straight Lines", "start_page": 481, "end_page": 488, "content_types": ["exercise"]}
+      ]
+    },
+    {
+      "chapter": "28",
+      "title": "THE PLANE",
+      "start_page": 489,
+      "end_page": 570,
+      "page_count": 82,
+      "topics": [
+        {"topic": "28.1", "title": "Plane", "start_page": 489, "end_page": 495, "content_types": ["theory"]},
+        {"topic": "28.2", "title": "Equations of a plane passing through a given point", "start_page": 496, "end_page": 505, "content_types": ["theory"]},
+        {"topic": "28.3", "title": "Intercept form of a plane", "start_page": 506, "end_page": 515, "content_types": ["theory"]},
+        {"topic": "28.4", "title": "Vector equation of a plane passing through a given point and normal to a given vector", "start_page": 516, "end_page": 525, "content_types": ["theory"]},
+        {"topic": "28.5", "title": "Equation of a plane in normal form", "start_page": 526, "end_page": 535, "content_types": ["theory"]},
+        {"topic": "28.6", "title": "Vector equation of a plane passing through three given points", "start_page": 536, "end_page": 545, "content_types": ["theory"]},
+        {"topic": "28.7", "title": "Angle between two planes", "start_page": 546, "end_page": 555, "content_types": ["theory"]},
+        {"topic": "28.8", "title": "Equation of a plane passing through a given point and parallel to two given vectors or lines", "start_page": 556, "end_page": 565, "content_types": ["theory"]},
+        {"topic": "28.9", "title": "Equation of a plane parallel to a given plane", "start_page": 566, "end_page": 570, "content_types": ["theory"]}
+      ]
+    },
+    {
+      "chapter": "29",
+      "title": "LINEAR PROGRAMMING",
+      "start_page": 571,
+      "end_page": 635,
+      "page_count": 65,
+      "topics": [
+        {"topic": "29.1", "title": "Introduction", "start_page": 571, "end_page": 575, "content_types": ["theory"]},
+        {"topic": "29.2", "title": "Linear programming problems", "start_page": 576, "end_page": 585, "content_types": ["theory"]},
+        {"topic": "29.3", "title": "Some definitions", "start_page": 586, "end_page": 590, "content_types": ["theory"]},
+        {"topic": "29.4", "title": "Mathematical formulation of linear programming problems", "start_page": 591, "end_page": 600, "content_types": ["theory"]},
+        {"topic": "29.5", "title": "Some definitions and results", "start_page": 601, "end_page": 610, "content_types": ["theory"]},
+        {"topic": "29.6", "title": "Graphical methods of solving linear programming problems", "start_page": 611, "end_page": 620, "content_types": ["exercise"]},
+        {"topic": "29.7", "title": "Corner-point method", "start_page": 621, "end_page": 625, "content_types": ["exercise"]},
+        {"topic": "29.8", "title": "Iso-profit or iso-cost method", "start_page": 626, "end_page": 630, "content_types": ["exercise"]},
+        {"topic": "29.9", "title": "Different types of linear programming problems", "start_page": 631, "end_page": 634, "content_types": ["theory"]},
+        {"topic": "29.10", "title": "Some exceptional cases", "start_page": 635, "end_page": 635, "content_types": ["theory"]}
+      ]
+    },
+    {
+      "chapter": "30",
+      "title": "PROBABILITY",
+      "start_page": 636,
+      "end_page": 735,
+      "page_count": 100,
+      "topics": [
+        {"topic": "30.1", "title": "Introduction", "start_page": 636, "end_page": 640, "content_types": ["theory"]},
+        {"topic": "30.2", "title": "Recapitulation", "start_page": 641, "end_page": 650, "content_types": ["theory"]},
+        {"topic": "30.3", "title": "Conditional Probability", "start_page": 651, "end_page": 670, "content_types": ["theory", "exercise"]},
+        {"topic": "30.4", "title": "Multiplication theorems on Probability", "start_page": 671, "end_page": 680, "content_types": ["theory"]},
+        {"topic": "30.5", "title": "More on conditional Probability", "start_page": 681, "end_page": 690, "content_types": ["theory"]},
+        {"topic": "30.6", "title": "Independent events", "start_page": 691, "end_page": 700, "content_types": ["theory"]},
+        {"topic": "30.7", "title": "More on theorems of Probability", "start_page": 701, "end_page": 720, "content_types": ["theory"]},
+        {"topic": "30.8", "title": "The law of total Probability", "start_page": 721, "end_page": 730, "content_types": ["theory"]},
+        {"topic": "30.9", "title": "Bayes' Theorem", "start_page": 731, "end_page": 735, "content_types": ["theory"]}
+      ]
+    },
+    {
+      "chapter": "31",
+      "title": "MEAN AND VARIANCE OF A RANDOM VARIABLE",
+      "start_page": 736,
+      "end_page": 780,
+      "page_count": 45,
+      "topics": [
+        {"topic": "31.1", "title": "Introduction", "start_page": 736, "end_page": 740, "content_types": ["theory"]},
+        {"topic": "31.2", "title": "Discrete random variable", "start_page": 741, "end_page": 755, "content_types": ["theory"]},
+        {"topic": "31.3", "title": "Probability distribution", "start_page": 756, "end_page": 765, "content_types": ["theory"]},
+        {"topic": "31.4", "title": "Mean of a discrete random variable", "start_page": 766, "end_page": 775, "content_types": ["exercise"]},
+        {"topic": "31.5", "title": "Variance of a discrete random variable", "start_page": 776, "end_page": 780, "content_types": ["exercise"]}
+      ]
+    }
+  ]
+}

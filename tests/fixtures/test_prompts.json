@@ -1,0 +1,20 @@
+{
+    "question_extraction": {
+        "template": "Extract questions from the following content and format them in LaTeX: {content}",
+        "expected_format": "json",
+        "sample_input": "Chapter 30.3 Conditional Probability\n\nIllustration 1: A bag contains 4 red balls and 6 black balls. Two balls are drawn at random without replacement. Find the probability that both balls are red.",
+        "expected_output_type": "list"
+    },
+    "latex_formatting": {
+        "template": "Convert the following question to LaTeX format: {question_text}",
+        "expected_format": "text",
+        "sample_input": "Find the probability that both balls are red given that the first ball is red, where there are 4 red balls and 6 black balls.",
+        "expected_output_type": "string"
+    },
+    "content_validation": {
+        "template": "Validate the following content for quality: {content}",
+        "expected_format": "json",
+        "sample_input": "A bag contains 4 red balls and 6 black balls. Two balls are drawn at random without replacement. Find the probability that both balls are red.",
+        "expected_output_type": "dict"
+    }
+}
