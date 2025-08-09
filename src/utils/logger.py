@@ -16,7 +16,7 @@ import structlog
 from colorama import Fore, Style, init
 
 from .exceptions import BaseExtractorError
-from config import config
+from ..config import config
 
 # Initialize colorama for colored output
 init(autoreset=True)

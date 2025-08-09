@@ -16,10 +16,10 @@ from rich.table import Table
 from rich.panel import Panel
 from rich.text import Text
 
-from config import config
-from utils.logger import get_logger, log_exception, log_extraction_start, log_extraction_complete
-from utils.exceptions import BaseExtractorError
-from llm_interface.groq_client import GroqClient
+from .config import config
+from .utils.logger import get_logger, log_exception, log_extraction_start, log_extraction_complete
+from .utils.exceptions import BaseExtractorError
+from .llm_interface.groq_client import GroqClient
 
 # Initialize Typer app and Rich console
 app = typer.Typer(help="RD Sharma Question Extractor - Extract mathematical questions in LaTeX format")

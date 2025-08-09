@@ -9,7 +9,7 @@ from typing import Dict, List, Optional
 from dataclasses import dataclass
 import json
 
-from config import config
+from src.config import config
 
 
 @dataclass

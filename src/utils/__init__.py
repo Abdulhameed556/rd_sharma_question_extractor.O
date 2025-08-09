@@ -13,7 +13,7 @@ from .exceptions import (
     ValidationError,
     BaseExtractorError
 )
-from file_handler import FileHandler
+from .file_handler import FileHandler
 from .latex_renderer import LaTeXRenderer
 
 __all__ = [

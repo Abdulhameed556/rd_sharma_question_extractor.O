@@ -13,9 +13,9 @@ from datetime import datetime, timedelta
 from enum import Enum
 import statistics
 
-from utils.logger import get_logger
-from utils.exceptions import LLMInterfaceError
-from config import config
+from src.utils.logger import get_logger
+from src.utils.exceptions import LLMInterfaceError
+from src.config import config
 
 logger = get_logger(__name__)
 

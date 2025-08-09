@@ -11,9 +11,9 @@ from typing import Dict, List, Any, Optional, Union
 from dataclasses import dataclass
 from datetime import datetime
 
-from utils.logger import get_logger
-from utils.exceptions import LLMInterfaceError
-from config import config
+from src.utils.logger import get_logger
+from src.utils.exceptions import LLMInterfaceError
+from src.config import config
 
 logger = get_logger(__name__)
 

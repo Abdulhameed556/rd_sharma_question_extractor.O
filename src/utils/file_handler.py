@@ -15,7 +15,7 @@ import os
 
 from .logger import get_logger
 from .exceptions import FileOperationError
-from config import config
+from ..config import config
 
 logger = get_logger(__name__)
 

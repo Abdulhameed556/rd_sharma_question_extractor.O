@@ -11,9 +11,9 @@ from dataclasses import dataclass
 import spacy
 from collections import defaultdict
 
-from ..utils.logger import get_logger
-from ..utils.exceptions import ValidationError
-from ..config import config
+from src.utils.logger import get_logger
+from src.utils.exceptions import ValidationError
+from src.config import config
 
 logger = get_logger(__name__)
 
